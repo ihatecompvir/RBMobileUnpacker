@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RBU_Unpacker": {
+      "commandName": "Project",
+      "commandLineArgs": "rbds unpack Glob.bin output"
+    }
+  }
+}

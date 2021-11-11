@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Configurations>Debug;Release;Debug_Linux;Release_Linux</Configurations>
+    <Description>Packs and unpacks archive files for  Rock Band games on mobile platforms.</Description>
+    <Copyright>2021 ihatecompvir</Copyright>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <AssemblyName>RBMobileUnpacker</AssemblyName>
+    <RootNamespace>RBMobileUnpacker</RootNamespace>
+  </PropertyGroup>
+
+</Project>
